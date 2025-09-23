@@ -1,6 +1,6 @@
 # CalorieCounter
 
-This service for searching, viewing, and managing information about countries, nations, and cities.
+This service for searching, viewing, and managing information about meals.
 
 Language: Java.
 
