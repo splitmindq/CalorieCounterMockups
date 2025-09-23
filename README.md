@@ -4,6 +4,6 @@ This service for searching, viewing, and managing information about meals.
 
 Language: Java.
 
-[SRS of program](https://github.com/snrteftelya/CountrySearchLab/blob/main/Requirements/SRS.md)
+[SRS of program](https://github.com/splitmindq/CalorieCounterMockups/blob/main/Requirements/SRS.md)
 
-[User interface images](https://github.com/snrteftelya/CountrySearchLab/tree/main/Mockups)
+[User interface images](https://github.com/splitmindq/CalorieCounterMockups/tree/main/Mockups)
