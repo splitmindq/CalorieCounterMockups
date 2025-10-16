@@ -13,10 +13,10 @@
 <img src="./Images/activity_1.png" width="60%" />
 
 ---
-
+g
 ### 2. Работа с дневником питания<a name="2"></a>
 
-<img src="./Images/activity_2.png.png" width="60%" />
+<img src="./Images/activity_2.png" width="60%" />
 
 ---
 
