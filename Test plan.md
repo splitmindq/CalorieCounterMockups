@@ -118,7 +118,7 @@
 
 ## 7. Представление результатов
 
-Результаты представлены в документе ["Результаты тестирования"](Test result.md).
+Результаты представлены в документе ["Результаты тестирования"]([Test result.md](https://github.com/splitmindq/CalorieCounterMockups/blob/main/Test%20result.md)).
 
 <a name="conclusion"/>
 
